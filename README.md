@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Alif, a hardware programmer turned security researcher.
+I'm Alif, a hardware programmer turned security engineer.
 
 
 ## 💻 Tech Stack:
